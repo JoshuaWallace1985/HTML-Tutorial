@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "HTML Practise Assets",
+			"path": "../../../Downloads/HTML Practise Assets"
+		},
+		{
+			"name": "HTML Tutorial",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML Tutorial"
+	}
+}
